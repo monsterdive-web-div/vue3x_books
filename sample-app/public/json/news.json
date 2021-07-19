@@ -1,0 +1,29 @@
+{
+  "response": [
+    {
+      "title": "複数の書籍販売サイトで取り扱いしています。",
+      "category": "Book",
+      "date": "2021.07.27"
+    },
+    {
+      "title": "MONSTER DIVE のブログで本書籍に関する記事を公開しました。",
+      "category": "Author",
+      "date": "2021.07.27"
+    },
+    {
+      "title": "MONSTER DIVE 公式SNSアカウントで本書籍を紹介しています。",
+      "category": "Author",
+      "date": "2021.07.26"
+    },
+    {
+      "title": "「C&R研究所」ウェブサイトにて本書籍が新刊情報で掲載されています。",
+      "category": "Book",
+      "date": "2021.07.21"
+    },
+    {
+      "title": "「現場で使えるVue.js 3.X 実践ガイド」が発売されました。",
+      "category": "Book",
+      "date": "2021.07.20"
+    }
+  ]
+}
