@@ -1,0 +1,18 @@
+version: '2' # Composefileのバージョンを2に設定
+
+services:
+  wordpress:
+    image: wordpress:latest # MySQL5.7公式イメージを利用
+    ports:
+      - "3001:80" # ポート番号の設定
+    depends_on:
+      - mysql # mysqlを立ち上げた後にWordpressを立ち上げる
+    env_file: .env # 環境変数の定義に.envを利用
+    volumes:
+      - ./:/var/www/html/ # マウントするディレクトリを指定
+
+  mysql:
+    image: mysql:5.7 # MySQL5.7公式イメージを利用
+    env_file: .env # 環境変数の定義に.envを利用
+    ports:
+      - "3306:3306" #ポート番号の設定

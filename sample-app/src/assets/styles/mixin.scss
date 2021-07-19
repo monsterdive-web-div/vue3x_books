@@ -1,0 +1,84 @@
+// mediaquery
+@mixin xl($scope) {
+  @if $scope == min {
+    @media (min-width: $XL + 1 + 'px') {
+      @content;
+    }
+  } @else {
+    @media (max-width: $XL + 'px') {
+      @content;
+    }
+  }
+}
+
+@mixin lg($scope) {
+  @if $scope == min {
+    @media (min-width: $LG + 1 + 'px') {
+      @content;
+    }
+  } @else {
+    @media (max-width: $LG + 'px') {
+      @content;
+    }
+  }
+}
+
+@mixin md($scope) {
+  @if $scope == min {
+    @media (min-width: $MD + 1 + 'px') {
+      @content;
+    }
+  } @else {
+    @media (max-width: $MD + 'px') {
+      @content;
+    }
+  }
+}
+
+@mixin sm($scope) {
+  @if $scope == min {
+    @media (min-width: $SM + 1 + 'px') {
+      @content;
+    }
+  } @else {
+    @media (max-width: $SM + 'px') {
+      @content;
+    }
+  }
+}
+
+@mixin xs($scope) {
+  @if $scope == min {
+    @media (min-width: $XS + 1 + 'px') {
+      @content;
+    }
+  } @else {
+    @media (max-width: $XS + 'px') {
+      @content;
+    }
+  }
+}
+
+@mixin landscape() {
+  @media (orientation: landscape) {
+    @content;
+  }
+}
+
+@mixin visually-hidden {
+  position: absolute !important;
+  overflow: hidden !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  white-space: nowrap !important;
+  clip-path: inset(50%) !important;
+  clip: rect(0, 0, 0, 0) !important;
+}
+
+@mixin focus-base {
+  outline: 2px solid $COLOR_MAIN;
+  outline-offset: 6px;
+}
