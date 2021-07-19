@@ -1,0 +1,39 @@
+{
+  "response": [
+    {
+      "id": 5,
+      "title": "複数の書籍販売サイトで取り扱いしています。",
+      "category": 2,
+      "content": "<p>Amazonをはじめ、複数の書籍販売サイトで本書籍を取り扱っています。<br><a href=\"https://www.amazon.co.jp/dp/4863543522\" target=\"_blank\">Amazon</a><br><a href=\"https://books.rakuten.co.jp/rb/16729323/\" target=\"_blank\">Rakuten ブックス</a><br><a href=\"https://www.yodobashi.com/product/100000009003430352/\" target=\"_blank\">ヨドバシ.com</a><br><a href=\"https://bit.ly/3w3xdgY\" target=\"_blank\">HMV&BOOKS online</a></p>",
+      "date": "2021.07.20"
+    },
+    {
+      "id": 4,
+      "title": "「C&R研究所」ウェブサイトにて本書籍が新刊情報で掲載されています。",
+      "category": 2,
+      "content": "<p>本書籍の出版元「C&R研究所」の新刊情報にて「現場で使えるVue.js 3.x実践ガイド」が掲載ています。<br><a href=\"https://www.c-r.com/book/detail/1413\" target=\"_blank\">現場で使えるVue.js 3.x実践ガイド</a></p>",
+      "date": "2021.07.20"
+    },
+    {
+      "id": 3,
+      "title": "MONSTER DIVE 公式SNSアカウントで本書籍を紹介しています。",
+      "category": 3,
+      "content": "<p>MONSTER DIVE 公式SNSアカウントで、本書籍紹介の内容を投稿しています。<br>執筆以外の活動もSNSを通して見ることができます。<br><a href=\"https://www.facebook.com/monsterdive\" target=\"_blank\">Facebook</a> | <a href=\"https://twitter.com/monsterdive\" target=\"_blank\">Twitter</a> | <a href=\"https://www.instagram.com/monsterdive_inc/\" target=\"_blank\">Instagram</a></p>",
+      "date": "2021.07.20"
+    },
+    {
+      "id": 2,
+      "title": "MONSTER DIVE のブログで本書籍に関する記事を公開しました。",
+      "category": 3,
+      "content": "<p>本書籍を執筆した MONSTER DIVE のブログで本書籍に関する記事を公開しました。<br><a href=\"https://www.monster-dive.com/blog/web_creative/20210720_002035.php\" target=\"_blank\">現場で使えるVue.js 3.X 実践ガイド」を執筆しました</a></p>",
+      "date": "2021.07.20"
+    },
+    {
+      "id": 1,
+      "title": "「現場で使えるVue.js 3.X 実践ガイド」が発売されました。",
+      "category": 2,
+      "content": "<p>2021年7月20日、MONSTER DIVEが執筆した「現場で使えるVue.js 3.X 実践ガイド」 が発売されました。<br><img src=\"/img/about/about-book.png\" alt=\"現場で使えるVue.js 3.X 実践ガイド\"><br>■ 価格：3,820円＋税<br>■ 本のサイズ：A5判／ソフトカバー<br>■ 著者：MONSTER DIVE<br>■ 出版元：C&R研究所<br><a href=\"https://www.amazon.co.jp/dp/4863543522\" target=\"_blank\">Amazonで購入する</a></p>",
+      "date": "2021.07.20"
+    }
+  ]
+}
