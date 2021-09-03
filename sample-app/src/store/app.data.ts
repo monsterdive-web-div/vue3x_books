@@ -399,6 +399,11 @@ gl_FragColor = vec4(t.rgb + 1.*color*vProgress1,opa);
     {
       question: "執筆者と一緒に働きたい",
       answer: 'MONSTER DIVEへの求人エントリーをご検討の方は、各職種の募集要項をご確認の上、以下からお問い合わせください。<br><a href="https://www.monster-dive.com/contact/form_job.php" target="_blank">求人エントリー</a>'
+    },
+    {
+      question: ".vueファイルにおけるscriptタグ/templateタグ/styleタグの順番の意図を知りたい",
+      answer:
+        "「vue create」を作成してできる.vueファイルではデフォルトでは「template」→「script」→「style」となっていますが、本書では「script」→「template」→「style」になっています。<br>意図としては、実際のプロジェクトでは複数人、JSプログラミングとマークアップが分業する場合もあり、その場合JSプログラミングでは「script」「template」を主に使いますし、マークアップでは「template」「style」を主に使うため、両方の担当が見やすいように「template」を中心に置いています。<br>もちろんデフォルトの順番でも何も問題はありませんので、ご自身で書きやすい順番で記述していただいても構いません。"
     }
   ];
 }
