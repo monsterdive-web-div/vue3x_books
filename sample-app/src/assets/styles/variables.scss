@@ -1,0 +1,28 @@
+// Breakpoints
+$XL: 1366;
+$LG: 1024;
+$MD: 768;
+$SM: 576;
+$XS: 375;
+
+// Fonts
+$FONT_FAMILY_BASE: "Hiragino Sans", "メイリオ", Meiryo, sans-serif;
+$FONT_EN: 'Source Sans Pro', sans-serif;
+$FONT_WEIGHT_BASE_NORMAL: 400;
+$FONT_WEIGHT_BASE_DEMIBOLD: 600;
+$FONT_WEIGHT_BASE_BOLD: 700;
+$FONT_WEIGHT_EN_NORMAL: 400;
+$FONT_WEIGHT_EN_BOLD: 600;
+
+// Colors
+$COLOR_MAIN: #42b883;
+$COLOR_BASE: #35495e;
+
+$SHADOW_BASE: 3px 3px 6px rgba(#d9e6bd, 0.63);
+$SHADOW_HOVER: 3px 3px 24px rgba(#d9e6bd, 0.9);
+
+// Image Path
+$PATH: "~@/assets/images/";
+
+// Speed
+$SEC: 0.3s;
