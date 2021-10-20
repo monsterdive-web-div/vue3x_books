@@ -67,7 +67,7 @@ CHAPTER 01はサンプルの動作に必要な環境とVue3.xの概要の解説�
 | 011.ページ共通のコンポーネントを作る |  |
 | 012.各ページコンポーネントをつくる |  |
 | 013.状態を管理する |  |
-| 014.Webサイトを整える | [chapter02.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02.zip) |
+| 014.Webサイトを整える | [chapter02-014.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-014.zip) |
 
 
 ### CHAPTER 03 機能的なWebサイトの作成〜実践編
