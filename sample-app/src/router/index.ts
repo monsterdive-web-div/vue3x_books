@@ -48,8 +48,8 @@ const routes: Array<RouteRecordRaw> = [
     path: "/faq",
     name: "Q&A",
     component: () =>
-      /* webpackChunkName: "about" */
-      import("../views/About.vue"),
+      /* webpackChunkName: "faq" */
+      import("../views/Faq.vue"),
     meta: {
       title: "Faqページ",
       description: "Faqページの説明"
