@@ -65,7 +65,7 @@ CHAPTER 01はサンプルの動作に必要な環境とVue3.xの概要の解説�
 | 009.コンポーネント構成を設計する | [chapter02-009.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-009.zip) |
 | 010.ルーティングを設定する | [chapter02-010.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-010.zip) |
 | 011.ページ共通のコンポーネントを作る | [chapter02-011.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-011.zip) |
-| 012.各ページコンポーネントをつくる |  |
+| 012.各ページコンポーネントをつくる | [chapter02-012.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-012.zip) |
 | 013.状態を管理する | [chapter02-013.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-013.zip) |
 | 014.Webサイトを整える | [chapter02-014.zip](https://github.com/monsterdive-web-div/vue3x_books/archive/refs/heads/chapter02-014.zip) |
 
