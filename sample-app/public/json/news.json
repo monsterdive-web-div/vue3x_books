@@ -1,6 +1,12 @@
 {
   "response": [
     {
+      "id": 7,
+      "title": "GitHubで公開しているサンプルファイル「CHAPTER02」を更新しました。",
+      "category": 2,
+      "content": "<p>実際にお客様から問い合わせいただいた、サンプルファイルをより詳細にソースコードを分割更新しています。<br>対象は「CHAPTER02」となります。<br><a target=\"_blank\" href=\"https://github.com/monsterdive-web-div/vue3x_books\">GitHub</a>",
+      "date": "2022.01.06"
+    },{
       "id": 6,
       "title": "Q&A更新：scriptタグ/templateタグ/styleタグの順番について",
       "category": 3,
